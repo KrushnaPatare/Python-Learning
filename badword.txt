@@ -1,0 +1,4 @@
+Elephant is an animal.
+Elephant is honest.
+Elephant has four legs.
+Elephant is foolish.
